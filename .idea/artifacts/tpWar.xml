@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tpWar">
+    <output-path>$PROJECT_DIR$/../testResult/artifacts/tpWar</output-path>
+    <root id="archive" name="tpWar.war" />
+  </artifact>
+</component>
