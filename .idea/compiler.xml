@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hh" />
         <module name="pt" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bb" target="1.5" />
+      <module name="hh" target="1.8" />
       <module name="pt" target="1.7" />
       <module name="testP" target="1.7" />
       <module name="tp" target="1.7" />
