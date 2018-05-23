@@ -14,6 +14,8 @@
       <module name="bb" target="1.5" />
       <module name="hh" target="1.8" />
       <module name="pt" target="1.7" />
+      <module name="t" target="1.5" />
+      <module name="test1" target="1.5" />
       <module name="testP" target="1.7" />
       <module name="tp" target="1.7" />
     </bytecodeTargetLevel>
